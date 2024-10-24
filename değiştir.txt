@@ -1,0 +1,9 @@
+kitaba tıklandığında hepsi ayrı çıksın
+footer bilgiler eklensin düzgünce
+logo
+yelik söz
+adresler derin ismi
+üyelik bilgilri
+Banka-Hesaplarimiz.html banka bilgileri
+SSS.html sık sorulanları doldur
+kitapların yazarlarının isimlerine tıklayınca ayrı sayfada açlsın
